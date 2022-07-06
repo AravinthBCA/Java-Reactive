@@ -1,4 +1,4 @@
-package io.javabrains.reactiveworkshop;
+package javareactive;
 
 import reactor.core.publisher.Flux;
 
